@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectBooksAPI</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_books">No book results</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_authors">Book author(s)</string>
+    <string name="enter_search">Please enter your search terms</string>
+</resources>
